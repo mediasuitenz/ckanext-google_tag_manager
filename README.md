@@ -11,7 +11,7 @@ This gives you a container-ID specific to the account.
     
 ```sh 
 $ cd /usr/lib/ckan/default/src
-$ git clone https://github.com/tanmaythakur/ckanext-google-tag-manager.git
+$ git clone https://github.com/Accela-Inc/ckanext-google_tag_manager
 ```
 
 ##### 2. Install the plugin
