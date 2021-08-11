@@ -1,4 +1,0 @@
-
-        [ckan.plugins]
-        google_tag_manager=ckanext.google_tag_manager.plugin:Google_Tag_ManagerPlugin
-    
